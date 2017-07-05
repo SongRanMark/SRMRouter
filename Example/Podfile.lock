@@ -1,0 +1,16 @@
+PODS:
+  - SRMRouter (0.1.0)
+
+DEPENDENCIES:
+  - SRMRouter (from `../`)
+
+EXTERNAL SOURCES:
+  SRMRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SRMRouter: 687caa15bae24f0340e7cc5a39a0d3e9fd6fafce
+
+PODFILE CHECKSUM: 8f8b115531177caafda63bd092492eeb8c054886
+
+COCOAPODS: 1.2.1

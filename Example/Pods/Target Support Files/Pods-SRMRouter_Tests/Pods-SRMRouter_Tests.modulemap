@@ -1,0 +1,6 @@
+framework module Pods_SRMRouter_Tests {
+  umbrella header "Pods-SRMRouter_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module SRMRouter {
+  umbrella header "SRMRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}
