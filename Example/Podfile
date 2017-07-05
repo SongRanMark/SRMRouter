@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SRMRouter_Example' do
+  pod 'SRMRouter', :path => '../'
+
+  target 'SRMRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
